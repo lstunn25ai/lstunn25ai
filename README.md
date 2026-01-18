@@ -9,18 +9,19 @@
 
   <img src="images/image.png" alt="Creative Work Showcase" width="300" />
 
-  ### 🎨 Gallery
-  <a href="images/ico_ai.png">
-    <img src="images/ico_ai.png" alt="AI Concept" width="50" />
-  </a>
-  <a href="images/ico_ai2.jpg">
-    <img src="images/ico_ai2.jpg" alt="AI Exploration" width="50" />
-  </a>
-  <a href="images/ico_ai3.png">
-    <img src="images/ico_ai3.png" alt="AI Vision" width="50" />
-  </a>
+  ---
 
 </div>
+
+## 📋 About Me
+
+Hi! I'm a creative developer passionate about merging **art, code, and technology**. I work across multiple disciplines:
+- Building intelligent automation systems
+- Creating generative art with AI
+- Designing beautiful digital experiences
+- Developing modern web applications
+
+This profile showcases my journey in these areas. Feel free to explore my repositories and connect with me!
 
 ---
 
