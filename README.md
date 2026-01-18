@@ -1,11 +1,11 @@
 <div align="center">
 
-  # Hi there, I'm VS_oxotn1k25 👋
+  # VS_oxotn1k25
 
-  ### CG Designer | Python Developer | 3D Artist | UI Designer
+  ### Developer • 3D Artist • Designer
 
   <p align="center">
-    <i>"Developer and digital artist. I bridge the gap between code and creativity, combining technical Python skills with a creative vision in 3D and UI design to build unique digital products."</i>
+    <i>Blending code and creativity. Interested in AI, generative art, and building things that work and look good.</i>
   </p>
 
   ---
@@ -32,17 +32,18 @@
 
 ---
 
-### 🔭 What I'm working on
-I am a lifelong learner actively developing interesting applications and exploring the frontiers of AI:
-* 🤖 **Bot Architecture:** Developing Telegram bots and automating workflows.
-* 🎨 **Generative Art:** Deep diving into **ComfyUI, Forge, and Flux** for AI image generation.
-* 🖌️ **Creative Design:** Creating UI layouts, digital paintings, and prints for clothing brands.
-* 🌐 **Web Dev:** Building websites and layout design.
+### What I'm working on
+
+* **Telegram bots & automation** – workflow optimization and bot architecture
+* **Generative art** – ComfyUI, Flux, and AI image pipelines
+* **UI/UX design** – interfaces, digital paintings, and branding
+* **Web development** – clean, functional applications
 
 ---
 
-### ⚡ Fun Fact & Goals
-> I work at the intersection of **Art & Tech**. Currently, I'm deep diving into Neural Network architectures with the ultimate dream of creating my own game on **Unreal Engine**.
+### Interests
+
+Art and tech. Passionate about neural networks, game development, and creative tools that bridge design and code.
 
 ---
 
