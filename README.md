@@ -1,62 +1,134 @@
 <div align="center">
 
-  # VS_oxotn1k25
-
-  ### Developer • 3D Artist • Designer
-
-  <p align="center">
-    <i>Blending code and creativity. Interested in AI, generative art, and building things that work and look good.</i>
-  </p>
+  # ✨ VS_oxotn1k25
+  ### 💻 Developer • 🎨 3D Artist • 🖌️ Designer
+  
+  <i>Blending code and creativity. Exploring AI, generative art, and building things that look as good as they work.</i>
 
   ---
 
-  ### 🛠 Tech Stack & Tools
+  <img src="images/image.png" alt="Creative Work Showcase" width="300" />
 
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=black" alt="After Effects" />
-  <img src="https://img.shields.io/badge/Blender-e87d0d?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/ZBrush-000000?style=for-the-badge&logo=ZBrush&logoColor=white" alt="ZBrush" />
-  
-  <br/>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/ComfyUI-000000?style=for-the-badge&logo=artstation&logoColor=white" alt="ComfyUI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  ### 🎨 Gallery
+  <a href="images/ico_ai.png">
+    <img src="images/ico_ai.png" alt="AI Concept" width="50" />
+  </a>
+  <a href="images/ico_ai2.jpg">
+    <img src="images/ico_ai2.jpg" alt="AI Exploration" width="50" />
+  </a>
+  <a href="images/ico_ai3.png">
+    <img src="images/ico_ai3.png" alt="AI Vision" width="50" />
+  </a>
 
 </div>
 
 ---
 
-### What I'm working on
+## 🛠️ Tech Stack & Tools
 
-* **Telegram bots & automation** – workflow optimization and bot architecture
-* **Generative art** – ComfyUI, Flux, and AI image pipelines
-* **UI/UX design** – interfaces, digital paintings, and branding
-* **Web development** – clean, functional applications
+<details open>
+<summary><b>💾 Design & Creative Tools</b></summary>
+
+| Tool | Purpose |
+|------|---------|
+| 🎨 Adobe Photoshop | Digital Art & Photo Editing |
+| 🖌️ Adobe Illustrator | Vector Design & Graphics |
+| 🎬 After Effects | Motion Graphics & Animation |
+| 🧊 Blender | 3D Modeling & Rendering |
+| 🗿 ZBrush | Digital Sculpting |
+
+</details>
+
+<details open>
+<summary><b>💻 Development & Tech</b></summary>
+
+| Tool | Purpose |
+|------|---------|
+| 🐍 Python | Scripting & Automation |
+| 🤖 ComfyUI | AI Image Generation Pipelines |
+| 🐳 Docker | Containerization |
+| 🔗 Git | Version Control |
+| 🗄️ PostgreSQL | Database Management |
+| 📦 SQLite | Lightweight Database |
+| 🐧 Linux | Development Environment |
+
+</details>
 
 ---
 
-### Interests
+## 🚀 What I'm Working On
 
-Art and tech. Passionate about neural networks, game development, and creative tools that bridge design and code.
+<details>
+<summary><b>🤖 Telegram Bots & Automation</b></summary>
+
+- Workflow optimization and bot architecture
+- Intelligent automation solutions
+- Scalable deployment strategies
+- Custom integrations and APIs
+
+</details>
+
+<details>
+<summary><b>🎭 Generative Art & AI</b></summary>
+
+- ComfyUI workflows and node systems
+- Flux model implementations
+- Advanced AI image pipelines
+- Neural art generation experiments
+
+</details>
+
+<details>
+<summary><b>🎨 UI/UX Design</b></summary>
+
+- Digital paintings and illustrations
+- Interface design & prototyping
+- Comprehensive branding systems
+- User experience optimization
+
+</details>
+
+<details>
+<summary><b>💡 Web Development</b></summary>
+
+- Clean, functional web applications
+- Beautiful UI implementations
+- Modern web technologies
+- Full-stack development
+
+</details>
 
 ---
+
+## 💡 Interests & Passion
+
+```
+🧠 Neural Networks        🎮 Game Development      ✨ Creative Tools
+🌐 Web Tech              📊 Data Visualization     🎬 Motion Graphics
+🔮 Procedural Generation  🎯 Optimization         🌌 Sci-Fi & Futurism
+```
+
+> Passionate about the intersection of **art and technology**, always exploring new ways to merge design principles with code.
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
-  ### 📫 Let's Connect
-  <a href="mailto:lstunn25ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lstunn25ai@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/VS_oxotn1k25)
 
-  <br/><br/>
+<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=VS_oxotn1k25&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VS_oxotn1k25&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /> 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VS_oxotn1k25&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VS_oxotn1k25&layout=compact&theme=radical&hide_border=true)
+
+---
+
+<sub>Last updated: January 2026 | Creative Developer & Digital Artist</sub>
 
 </div>
